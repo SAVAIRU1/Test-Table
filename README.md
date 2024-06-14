@@ -1,24 +1,27 @@
-# Test-Table
-New table
 <head> 
-  OQ Testing
+  <h1>OQ Testing</h1>
 </head>
 <body> 
-  <h1>Access levels</h1> 
+  Access levels 
   <table> 
     <thead> 
       <tbody>
-          <th>Access Level</th> 
+      <th>Access Level</th> 
       <th>Privilage</th> 
       <th>Acceptace Criteria</th> 
       <th>Actual Results</th>
         <tr>
           <td>Line Manager</td>
-          <td>Line Supervisor</td>
-          <td>IT Administrator</td>
+        </tr>
+        <tr>
+          <td>Line Supervisor</td>  
+        </tr>
+          <tr>
+            <td>IT Administrator</td>
+          </tr>
+        <tr>
           <td>Operator</td>
         </tr>
-        <tr><td></td></tr>
       </tbody>
     </thead>
   </table>
